@@ -1,0 +1,1 @@
+console.log(`total is: ${5 + 6}`);
